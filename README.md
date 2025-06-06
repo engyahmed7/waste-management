@@ -1,24 +1,11 @@
 # SkipHire Pro - Modern Skip Hire Booking System
 
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue?logo=netlify)](https://skiphire-pro.netlify.app/)
   [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC.svg)](https://tailwindcss.com/)
   [![Vite](https://img.shields.io/badge/Vite-5.4.2-646CFF.svg)](https://vitejs.dev/)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-## 🚀 Overview
-
-SkipHire Pro is a modern, responsive web application for booking skip hire services. Built with React, TypeScript, and Tailwind CSS, it provides a seamless user experience for customers to select and book waste disposal solutions online.
-
-### ✨ Key Features
-
-- **🎨 Modern UI/UX**: Beautiful, responsive design with smooth animations
-- **📱 Mobile-First**: Optimized for all devices and screen sizes
-- **⚡ Real-time Data**: Integration with live skip availability API
-- **🔍 Smart Selection**: Visual skip size comparison and selection
-- **🛡️ Road Legal Indicators**: Clear badges for permit requirements
-- **💳 Streamlined Booking**: Multi-step booking process with progress tracking
-- **🎯 Professional Design**: Apple-level design aesthetics with attention to detail
 
 ## 🏗️ Architecture Overview
 
@@ -48,6 +35,26 @@ graph TB
     style E fill:#f3e5f5
     style B fill:#e8f5e8
 ```
+
+
+## 🚀 Overview
+
+SkipHire Pro is a modern, responsive web application for booking skip hire services. Built with React, TypeScript, and Tailwind CSS, it provides a seamless user experience for customers to select and book waste disposal solutions online.
+
+### ✨ Key Features
+
+- **Modern UI/UX**: Beautiful, responsive design with smooth animations
+- **Mobile-First**: Optimized for all devices and screen sizes
+- **Real-time Data**: Integration with live skip availability API
+- **Smart Selection**: Visual skip size comparison and selection
+- **Road Legal Indicators**: Clear badges for permit requirements
+- **Streamlined Booking**: Multi-step booking process with progress tracking
+- **Professional Design**: Apple-level design aesthetics with attention to detail
+
+## 🌐 Live Demo
+
+Check out the live version of the app here: [https://skiphire-pro.netlify.app](https://skiphire-pro.netlify.app)
+
 
 ## 🔄 User Journey Flow
 
